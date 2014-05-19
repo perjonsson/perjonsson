@@ -748,8 +748,6 @@ section .login-overlay {
   height: 120px;
   margin: 0 auto;
   display: block;
-  border-radius: 10px;
-  box-shadow: 0 0 2px rgba(0, 0, 0, 0.2);
 }
 .owl-theme-main .owl-item .item a.popup-gallery img {
   width: 100%;
