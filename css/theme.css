@@ -1853,7 +1853,7 @@ section .overlay-text {
   left: 38%;
 }
 .grid figcaption a.link {
-  right: 38%;
+  right: 46%;
 }
 .grid figcaption a.link:hover,
 .grid figcaption a.preview:hover {
