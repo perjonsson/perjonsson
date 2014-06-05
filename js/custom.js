@@ -71,11 +71,17 @@ function fullScreenContainer() {
 /* --- owlCarousel ------------- */
 
 function owlCarousel() {
-    $("#owl-example").owlCarousel({
+    $("#previous-work").owlCarousel({
       lazyLoad : true,
       items: 3,
       theme: "owl-theme-main"
-    }); 
+    });
+
+    $("#current-work").owlCarousel({
+      lazyLoad : true,
+      items: 3,
+      theme: "owl-theme-main"
+    });
   
     $("#intro").owlCarousel({
       lazyLoad: true,

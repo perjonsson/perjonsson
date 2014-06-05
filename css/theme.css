@@ -706,6 +706,9 @@ section .login-overlay {
   filter: alpha(opacity=50);
   opacity: 0.5;
 }
+.current-work .owl-theme-main .owl-controls .owl-buttons div {
+  color: rgb(51, 51, 51);
+}
 .owl-theme-main .owl-controls .owl-page {
   display: inline-block;
   zoom: 1;
@@ -743,6 +746,9 @@ section .login-overlay {
   color: #FFF;
   text-align: center;
 }
+.current-work .owl-theme-main .owl-item .item {
+  color: rgb(51, 51, 51);
+}
 .owl-theme-main .owl-item .item img {
   width: 120px;
   height: 120px;
@@ -757,6 +763,9 @@ section .login-overlay {
   margin: inherit;
   color: white;
 }
+.current-work .owl-theme-main .owl-item .item h1 {
+  color: rgb(51, 51, 51);
+}
 .owl-theme-main .owl-item .item h3 {
   font-size: 1.7em;
   font-weight: 300;
@@ -764,16 +773,25 @@ section .login-overlay {
   color: white;
   text-transform: none;
 }
+.current-work .owl-theme-main .owl-item .item h3 {
+  color: rgb(51, 51, 51);
+}
 .owl-theme-main .owl-item .item h4 {
   margin: 1em 0;
   font-size: 1.1em;
   font-weight: 300;
   color: white;
 }
+.current-work .owl-theme-main .owl-item .item h4 {
+  color: rgb(51, 51, 51);
+}
 .owl-theme-main .owl-item .item p {
   color: white;
   font-size: 0.9em;
   padding: 0 2.5em;
+}
+.current-work .owl-theme-main .owl-item .item p {
+  color: rgb(51, 51, 51);
 }
 .owl-theme-featured {
   height: 100%;
@@ -2089,6 +2107,9 @@ footer.footer .icon {
   text-align: center;
   color: #d8d8d8;
   font-size: 1em;
+}
+.current-work .icon {
+  color: rgb(51,51,51);
 }
 .icon:hover {
   color: #88b7b3;
