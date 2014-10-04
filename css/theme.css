@@ -1229,7 +1229,7 @@ section .login-overlay {
 }
 #intro .carousel-caption-center p,
 #intro-video .carousel-caption-center p {
-  font-size: 1.3em;
+  font-size: 1.6em;
   font-weight: 400;
   line-height: 1.8;
   color: rgba(255, 255, 255, 0.9);
@@ -2524,7 +2524,7 @@ footer.footer .icon {
   }
   #intro .carousel-caption-center p,
   #intro-video .carousel-caption-center p {
-    font-size: 1em;
+    font-size: 1.2em;
     padding-right: 0;
     margin: 1em 0;
   }
@@ -2632,7 +2632,7 @@ footer.footer .icon {
   }
   #intro .carousel-caption-center p,
   #intro-video .carousel-caption-center p {
-    font-size: 1em;
+    font-size: 1.2em;
     padding-right: 0;
   }
   section h2,
